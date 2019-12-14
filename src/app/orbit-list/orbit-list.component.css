@@ -3,9 +3,6 @@
     color: #dd5;
 }
 
-.warning {
-    background-color: red;
-}
 
 table {
   color: #111;
@@ -25,4 +22,16 @@ th, td {
     text-align: left;
     margin: 5px 10px;
     padding: 6px;
+}
+
+.even-row {
+    background: pink;
+}
+
+.odd-row {
+    background: white;
+}
+
+.warning {
+    background-color: red;
 }
